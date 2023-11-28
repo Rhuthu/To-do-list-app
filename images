@@ -2,4 +2,9 @@ mkdir images
 cd images
 
 cp /C:/Users/USER/Webapp/TaskTracker/images/to-do-list.png .
+git add .
+git commit -m "Add PNG images"
+git push origin master
+
+
 
